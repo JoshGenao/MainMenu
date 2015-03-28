@@ -2,6 +2,27 @@
 <items version="2" >
 
     <item
+        jar="/Users/joshgenao/Documents/Programming/Java/MainMenu/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/joshgenao/Documents/Programming/Java/MainMenu/app/build/intermediates/pre-dexed/debug/classes-63d1df1e4841f66952806757dbb643264aa8fc48.jar" />
+    </item>
+    <item
+        jar="/Users/joshgenao/Documents/Programming/Java/MainMenu/app/build/intermediates/exploded-aar/com.telly/mrvector/0.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e9cd6fddebfe1293fe1bf4c0c6b1ac27a8d91a0">
+        <dex dex="/Users/joshgenao/Documents/Programming/Java/MainMenu/app/build/intermediates/pre-dexed/debug/classes-0a5b0783a0c873601ba64aba4af7bc56fb8541af.jar" />
+    </item>
+    <item
+        jar="/Users/joshgenao/Documents/Programming/Java/MainMenu/app/build/intermediates/exploded-aar/org.lucasr.dspec/dspec/0.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dab41681007f3d86a532a5d90295cc6feb9e258b">
+        <dex dex="/Users/joshgenao/Documents/Programming/Java/MainMenu/app/build/intermediates/pre-dexed/debug/classes-3e3711fb6f230c1eba583fd2975a5bb1ba454d5f.jar" />
+    </item>
+    <item
         jar="/Users/joshgenao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -9,18 +30,18 @@
         <dex dex="/Users/joshgenao/Documents/Programming/Java/MainMenu/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-1adf9416a4a8d821829925ad6da7afa2f1bbe2a1.jar" />
     </item>
     <item
+        jar="/Users/joshgenao/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.15/9093a362d18c5f81f58e49d86dece57d9b6e1cb7/library-1.0.15.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9093a362d18c5f81f58e49d86dece57d9b6e1cb7">
+        <dex dex="/Users/joshgenao/Documents/Programming/Java/MainMenu/app/build/intermediates/pre-dexed/debug/library-1.0.15-62b1fe38af7282b262c38c468378b96c4f806d30.jar" />
+    </item>
+    <item
         jar="/Users/joshgenao/Documents/Programming/Java/MainMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
         <dex dex="/Users/joshgenao/Documents/Programming/Java/MainMenu/app/build/intermediates/pre-dexed/debug/classes-79d7e3151048c83d865ed574122c12c646f1b87b.jar" />
-    </item>
-    <item
-        jar="/Users/joshgenao/Documents/Programming/Java/MainMenu/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/Users/joshgenao/Documents/Programming/Java/MainMenu/app/build/intermediates/pre-dexed/debug/classes-63d1df1e4841f66952806757dbb643264aa8fc48.jar" />
     </item>
     <item
         jar="/Users/joshgenao/Documents/Programming/Java/MainMenu/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"

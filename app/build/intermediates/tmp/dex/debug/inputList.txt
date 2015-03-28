@@ -1,5 +1,8 @@
 /Users/joshgenao/Documents/Programming/Java/MainMenu/app/build/intermediates/classes/debug
 /Users/joshgenao/Documents/Programming/Java/MainMenu/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-1adf9416a4a8d821829925ad6da7afa2f1bbe2a1.jar
+/Users/joshgenao/Documents/Programming/Java/MainMenu/app/build/intermediates/pre-dexed/debug/classes-3e3711fb6f230c1eba583fd2975a5bb1ba454d5f.jar
+/Users/joshgenao/Documents/Programming/Java/MainMenu/app/build/intermediates/pre-dexed/debug/classes-0a5b0783a0c873601ba64aba4af7bc56fb8541af.jar
+/Users/joshgenao/Documents/Programming/Java/MainMenu/app/build/intermediates/pre-dexed/debug/library-1.0.15-62b1fe38af7282b262c38c468378b96c4f806d30.jar
 /Users/joshgenao/Documents/Programming/Java/MainMenu/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-65e8aa64f78941cb2629c683e189c6e7a69bb18b.jar
 /Users/joshgenao/Documents/Programming/Java/MainMenu/app/build/intermediates/pre-dexed/debug/classes-14b573a7009ff375d96912946e0ef71863ed0e63.jar
 /Users/joshgenao/Documents/Programming/Java/MainMenu/app/build/intermediates/pre-dexed/debug/classes-79d7e3151048c83d865ed574122c12c646f1b87b.jar
